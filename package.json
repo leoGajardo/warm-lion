@@ -4,7 +4,8 @@
   "description": "A test chat for propouse of internal communication",
   "main": "index.js",
   "dependencies": {
-    "express": "^4.12.4"
+    "express": "^4.12.4",
+    "socket.io": "^1.3.5"
   },
   "devDependencies": {},
   "scripts": {
